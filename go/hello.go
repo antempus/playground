@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Generic Greeting Program")
+	fmt.Println("Generic Go Greeting Program")
 }
